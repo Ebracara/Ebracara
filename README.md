@@ -1,4 +1,4 @@
-
+![](./banner_git.jpg)
  Curriculum Vitae – Academic Profile 
 
 ## Personal Information

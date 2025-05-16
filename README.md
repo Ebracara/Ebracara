@@ -1,5 +1,6 @@
 ![](./banner_git.jpg)
- Curriculum Vitae – Academic Profile 
+ 
+ Curriculum Vitae
 
 ## Personal Information
 
